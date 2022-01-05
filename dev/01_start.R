@@ -21,11 +21,11 @@
 golem::fill_desc(
   pkg_name = "hamr", # The Name of the package containing the App 
   pkg_title = "Manage your cooked pig weekend", # The Title of the package containing the App 
-  pkg_description = "A package with recipes and tools to calculate the right amount between you and your friends", # The Description of the package containing the App 
+  pkg_description = "Recipes and tools to calculate the right amount between you and your friends.", # The Description of the package containing the App 
   author_first_name = "Benjamin", # Your First Name
   author_last_name = "Louis", # Your Last Name
   author_email = "contact@benjaminlouis-stat.fr", # Your Email
-  repo_url = NULL # The URL of the GitHub Repo (optional) 
+  repo_url = "https://github.com/BenjaminLouis/hamr" # The URL of the GitHub Repo (optional) 
 )     
 
 ## Set {golem} options ----
